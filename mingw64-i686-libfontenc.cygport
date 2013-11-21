@@ -3,7 +3,7 @@ ORIG_PN="libfontenc"
 inherit xorg cross
 
 NAME="mingw64-i686-libfontenc"
-VERSION=1.1.1
+VERSION=1.1.2
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X11 font encoding library for Win32 toolchain"
